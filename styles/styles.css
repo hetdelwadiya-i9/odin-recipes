@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500;700&display=swap');
+
+* {
+       background-color: bisque;
+       font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+       text-align: center;
+       margin-top: 100px;
+       font-size: 2.2rem;
+}
+
+.ul-style {
+       margin-top: 50px;
+       display: flex;
+       justify-content: center;
+       line-height: 2;
+}
+
+.ul-style ul li a {
+       text-decoration: none;
+       color: darkslateblue;
+       font-size: 1.1rem;
+}
+
+.title-recipe {
+       color: darkslateblue;
+       margin-left: 70px;
+       margin-top: 40px;
+       margin-bottom: 50px;
+}
+
+.img-box {
+       margin-left: 70px;
+}
+
+img {
+       border-radius: 25px;
+}
+
+.description h3 {
+       color: darkslateblue;
+       margin-left: 70px;
+       font-size: 1.5rem;
+       margin-top: 50px;
+}
+
+.description p {
+       margin-left: 70px;
+       font-weight: 500;
+       line-height: 1.5;
+}
+
+.ingredients h3 {
+       color: darkslateblue;
+       margin-left: 70px;
+       font-size: 1.5rem;
+       margin-top: 50px;
+}
+
+.ingredients ul li {
+       margin-left: 70px;
+       line-height: 1.5;
+}
+
+.steps h3 {
+       color: darkslateblue;
+       margin-left: 70px;
+       font-size: 1.5rem;
+       margin-top: 50px;
+}
+
+.steps ol {
+       margin-bottom: 100px;
+}
+
+.steps ol li {
+       margin-left: 70px;
+       line-height: 1.5;
+}
