@@ -1,16 +1,14 @@
 let recipeIndex = 0, JSONData, recipeData, lang="en", JSONLang, isSettings = false;
 
 const loadJSON = () => {
-       //s3 link:  https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/src/data.json
-       fetch("https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/data.json")
+       fetch("https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/src/data.json")
        .then(res => res.json())
        .then(res => {
               JSONData = res
        })
        .catch(err => console.log(err));
 
-       //load language json s3 link:  https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/src/lang.json
-       fetch("https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/lang.json")
+       fetch("https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/src/lang.json")
        .then(res => res.json())
        .then(async res => {
               JSONLang = await res;
