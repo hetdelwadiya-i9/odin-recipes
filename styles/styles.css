@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500;700&display=swap');
 
-* {
-       background-color: bisque;
+body {
+       background-color: #f1f1f1!important;
        font-family: 'Montserrat', sans-serif;
 }
 
@@ -9,6 +9,10 @@
        text-align: center;
        margin-top: 100px;
        font-size: 2.2rem;
+}
+
+.theme-text {
+       color: #892CDC!important;
 }
 
 .ul-style {
@@ -20,12 +24,16 @@
 
 .ul-style ul li a {
        text-decoration: none;
-       color: darkslateblue;
+       color: #892CDC!important;
        font-size: 1.1rem;
 }
 
+.ul-style ul li a:hover {
+       cursor: pointer;
+}
+
 .title-recipe {
-       color: darkslateblue;
+       color: #892CDC;
        margin-left: 70px;
        margin-top: 40px;
        margin-bottom: 50px;
@@ -40,7 +48,7 @@ img {
 }
 
 .description h3 {
-       color: darkslateblue;
+       color: #892CDC;
        margin-left: 70px;
        font-size: 1.5rem;
        margin-top: 50px;
@@ -53,7 +61,7 @@ img {
 }
 
 .ingredients h3 {
-       color: darkslateblue;
+       color: #892CDC;
        margin-left: 70px;
        font-size: 1.5rem;
        margin-top: 50px;
@@ -65,7 +73,7 @@ img {
 }
 
 .steps h3 {
-       color: darkslateblue;
+       color: #892CDC;
        margin-left: 70px;
        font-size: 1.5rem;
        margin-top: 50px;
@@ -78,4 +86,62 @@ img {
 .steps ol li {
        margin-left: 70px;
        line-height: 1.5;
+}
+
+.backBtn {
+       margin-left: 50px;
+       margin-top: 50px;
+}
+
+#header-a {
+       text-decoration: none;
+       color: white;
+}
+
+.hide {
+       display: none;
+}
+
+@media only screen 
+and (max-width : 573px) 
+{
+       .center-img {
+              text-align: center;
+              justify-content: center;
+       }
+
+       .img-box {
+              width: 300px!important;
+              margin: 0 20px;
+       }
+
+       .description p {
+              margin-left: 0px;
+              margin: 0 20px;
+              text-align: center;
+       }
+
+       .description h3 {
+              font-size: 1.5rem;
+              text-align: center;
+              margin: 50px 20px;
+       }
+
+       .ingredients h3 {
+              margin: 40px 20px;
+              text-align: center;
+       }
+       
+       .ingredients ul li {
+              margin: 0 20px;
+       }
+
+       .steps h3 {
+              margin: 40px 20px;
+              text-align: center;
+       }
+       
+       .steps ol li {
+              margin: 10px 20px;
+       }
 }

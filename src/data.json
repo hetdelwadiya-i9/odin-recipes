@@ -1,0 +1,67 @@
+[
+       {
+              "title":"Cucumber Sandwiches",
+              "img": [
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/sandwiches.jpg",
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/sandwiches.jpg",
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/sandwiches.jpg"
+              ],
+              "description":"This simple Cucumber sandwich recipe is perfect to prepare as a light snack or lunch. It’s easy to make and great for customizing with your favorite ingredients, like tomatoes, cheese, and/or herbs. Really great appetizer for the summer or anytime. Every time I have served these everyone wants the recipe...and they're so easy! Just be sure to refrigerate the cream cheese mixture overnight!",
+              "ingredients": [
+                     "1 (8 ounce) package cream cheese, softened",
+                     "½ cup mayonnaise",
+                     "1 (.7 ounce) package dry Italian salad dressing mix",
+                     "2 loaves French bread, cut into 1 inch slices",
+                     "2 medium cucumbers, sliced",
+                     "1 pinch <a href='https://www.mccormick.com/spices-and-flavors/herbs-and-spices/spices/dill-weed#:~:text=McCormick%20Dill%20Weed%20is%20the,%2C%20fish%2C%20potatoes%20and%20cheeses.'>dried dill weed</a>"
+              ],
+              "steps": [
+                     "In a medium bowl, mix together the cream cheese, mayonnaise and Italian dressing mix. Refrigerate for at least 6 hours, or preferably overnight.",
+                     "Spread the cream cheese blend onto slices of French bread. Top with a cucumber slice, and sprinkle with dill. You can make as many or few as you like. the cream cheese mixture keeps for about a week in the refrigerator so you can make them over and over again!"
+              ]
+       },
+       {
+              "title":"Oven-Roasted Asparagus",
+              "img": [
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/asparagus.jpg",
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/asparagus.jpg",
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/asparagus.jpg"
+              ],
+              "description":"We need more GREEN in our dinner arsenal, and over-roasted asparagus is one of the most ridiculously simple vegetable dishes in existence. Roasting is my favorite method for cooking many vegetables, not the least of which is the glorious, green asparagus. Salty and savory, the roasting method kills the natural bitterness of asparagus. Try it next to grilled fish or lamb.",
+              "ingredients": [
+                     "1 bunch thin asparagus spears, trimmed",
+                     "3 tablespoons olive oil",
+                     "1 ½ tablespoons grated <a href='https://en.wikipedia.org/wiki/Parmesan'>Parmesan cheese</a> (Optional)",
+                     "1 clove garlic, minced (Optional)",
+                     "1 teaspoon sea salt",
+                     "½ teaspoon ground black pepper",
+                     "1 tablespoon lemon juice (Optional)"
+              ],
+              "steps": [
+                     "Preheat an oven to 425 degrees F (220 degrees C).",
+                     "Place the asparagus into a mixing bowl, and drizzle with the olive oil. Toss to coat the spears, then sprinkle with Parmesan cheese, garlic, salt, and pepper. Arrange the asparagus onto a baking sheet in a single layer.",
+                     "Bake in the preheated oven until just tender, 12 to 15 minutes depending on thickness. Sprinkle with lemon juice just before serving."
+              ]
+       },
+       {
+              "title":"Easy Bunny Cake",
+              "img" :[
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/cake.jpg",
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/cake.jpg",
+                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/cake.jpg"
+              ],
+              "description":"An easy Easter Bunny Cake with purple, pink, and yellow swirls topped with coconut and jelly beans. You can make this cake with the Easter colors inside or just plain. It’s really simple, easy, and good. But the best part is the look on your kids’ faces when they see it.",
+              "ingredients": [
+                     "1 (18.25 ounce) package yellow cake mix",
+                     "3 ¾ cups <a href='https://www.tasteofhome.com/article/is-flaked-or-shredded-coconut-best-for-your-recipe/'>flaked coconut</a>",
+                     "1 (16 ounce) package vanilla frosting",
+                     "30 small jellybeans",
+                     "4 red licorice"
+              ],
+              "steps": [
+                     "Heat oven and prepare two 9 inch round baking pans as directed on cake box. Prepare cake batter with as directed on package adding in 1/2 cup of coconut. Divide batter evenly between the prepared pans. Bake and cool cake as directed on package.",
+                     "When cooled, place one whole 9 inch cake layer on serving tray, forming the bunny's head. Cut 2 convex shaped ears from each side of the second layer, place on each side of head to form ears. Use concave shaped piece for the bowtie, place about 1/2 inch below head.",
+                     "Frost entire bunny covering top and sides of bunny. Pat remaining 3 1/4 cup coconut evenly over top and sides. Decorate the bunny face and bowtie with jellybeans and use the licorice to make whiskers."
+              ]
+       }
+]

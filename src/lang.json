@@ -1,0 +1,26 @@
+{
+       "en": {
+              "about": "About",
+              "settings": "Settings",
+              "back":"Back",
+              "description": "Description",
+              "ingredients": "Ingredients",
+              "steps": "Steps"
+       },
+       "fr": {
+              "about": "Sur",
+              "settings": "Réglages",
+              "back":"Arrière",
+              "description": "La description",
+              "ingredients": "Ingrédients",
+              "steps": "Pas"
+       },
+       "ru": {
+              "about": "Обо",
+              "settings": "Настройки",
+              "back":"Назад",
+              "description": "Описание",
+              "ingredients": "Ингредиенты",
+              "steps": "шаги"
+       }
+}
