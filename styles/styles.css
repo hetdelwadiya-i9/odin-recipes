@@ -102,6 +102,10 @@ img {
        display: none;
 }
 
+.clear-text {
+       text-decoration: none;
+}
+
 @media only screen 
 and (max-width : 573px) 
 {
