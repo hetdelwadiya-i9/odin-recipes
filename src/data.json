@@ -46,9 +46,9 @@
        {
               "title":"Easy Bunny Cake",
               "img" :[
-                     "https://github.com/hetdelwadiya-i9/odin-recipes/blob/main/images/cake.jpg",
-                     "https://github.com/hetdelwadiya-i9/odin-recipes/blob/main/images/cake.jpg",
-                     "https://github.com/hetdelwadiya-i9/odin-recipes/blob/main/images/cake.jpg"
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/cake.jpg",
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/cake.jpg",
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/cake.jpg"
               ],
               "description":"An easy Easter Bunny Cake with purple, pink, and yellow swirls topped with coconut and jelly beans. You can make this cake with the Easter colors inside or just plain. It’s really simple, easy, and good. But the best part is the look on your kids’ faces when they see it.",
               "ingredients": [
