@@ -2,9 +2,9 @@
        {
               "title":"Cucumber Sandwiches",
               "img": [
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/sandwiches.jpg",
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/sandwiches.jpg",
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/sandwiches.jpg"
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/sandwiches.jpg",
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/sandwiches.jpg",
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/sandwiches.jpg"
               ],
               "description":"This simple Cucumber sandwich recipe is perfect to prepare as a light snack or lunch. It’s easy to make and great for customizing with your favorite ingredients, like tomatoes, cheese, and/or herbs. Really great appetizer for the summer or anytime. Every time I have served these everyone wants the recipe...and they're so easy! Just be sure to refrigerate the cream cheese mixture overnight!",
               "ingredients": [
@@ -23,9 +23,9 @@
        {
               "title":"Oven-Roasted Asparagus",
               "img": [
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/asparagus.jpg",
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/asparagus.jpg",
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/asparagus.jpg"
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/asparagus.jpg",
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/asparagus.jpg",
+                     "https://raw.githubusercontent.com/hetdelwadiya-i9/odin-recipes/main/images/asparagus.jpg"
               ],
               "description":"We need more GREEN in our dinner arsenal, and over-roasted asparagus is one of the most ridiculously simple vegetable dishes in existence. Roasting is my favorite method for cooking many vegetables, not the least of which is the glorious, green asparagus. Salty and savory, the roasting method kills the natural bitterness of asparagus. Try it next to grilled fish or lamb.",
               "ingredients": [
@@ -46,9 +46,9 @@
        {
               "title":"Easy Bunny Cake",
               "img" :[
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/cake.jpg",
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/cake.jpg",
-                     "https://odinrecipe-bucket.s3.ap-south-1.amazonaws.com/cake.jpg"
+                     "https://github.com/hetdelwadiya-i9/odin-recipes/blob/main/images/cake.jpg",
+                     "https://github.com/hetdelwadiya-i9/odin-recipes/blob/main/images/cake.jpg",
+                     "https://github.com/hetdelwadiya-i9/odin-recipes/blob/main/images/cake.jpg"
               ],
               "description":"An easy Easter Bunny Cake with purple, pink, and yellow swirls topped with coconut and jelly beans. You can make this cake with the Easter colors inside or just plain. It’s really simple, easy, and good. But the best part is the look on your kids’ faces when they see it.",
               "ingredients": [
